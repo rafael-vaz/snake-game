@@ -18,8 +18,6 @@ Estudar e praticar conceitos e recursos da linguagem de forma divertida e intera
 
 Preparado para relembrar os velhos tempos? 
 
-https://snake-game-project.netlify.app/
-
-
+https://rafael-vaz.github.io/snake-game/
 
 
